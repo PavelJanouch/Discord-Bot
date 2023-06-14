@@ -10,6 +10,10 @@ Musíte hlavně nainstalovat knihovnu py-cord, jakmile budete mít knihovnu disc
 Základní Informace
 ----------------------------
 
+Discord Bot
+
+----------------------------
+
 Bot je pro PrahaRP ( ZZS HMP )
 
 ----------------------------
