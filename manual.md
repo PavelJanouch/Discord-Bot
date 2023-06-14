@@ -66,6 +66,9 @@ Základní Funkce
 ----------------------------
 
 DÍKY ZA SLEDOVÁNÍ :)
+
+-----------------------------
+
 KDYBY JSTE SI BOTA CHTĚLI VYZKOUŠET TAK ZDE = https://discord.gg/YxXpMZ9DYM
 
 ---------------------------
