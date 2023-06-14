@@ -96,4 +96,4 @@ async def resume(ctx):
     else:
         await ctx.send("Bot před tímto nepřehrával nic. Použijte příkaz !play")
 
-bot.run("Místo textu sem zadej token tvého bota")
+bot.run("TOKEN MÍSTO TEXTU")
