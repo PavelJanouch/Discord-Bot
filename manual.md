@@ -1,3 +1,12 @@
+
+Důležité !!
+------------
+
+Musíte hlavně nainstalovat knihovnu py-cord, jakmile budete mít knihovnu discord ( která je zastaralá ) tak vám nebude fungovat 
+
+--------------
+
+
 Základní Informace
 ----------------------------
 
